@@ -1,9 +1,9 @@
 window.cipher = {
   encode: () => {
-    /* Acá va tu código */
+    console.log('enconde');
     
   },
   decode: () => {
-    /* Acá va tu código */
+    console.log('decode');
   }
 };
